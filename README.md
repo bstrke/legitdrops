@@ -1,0 +1,2 @@
+# legitdrops
+Enjoy Our PWA
