@@ -1,7 +1,7 @@
 {
   "name": "Legit Drops",
   "short_name": "LegitDrops",
-  "start_url": "https://www.legitdrops.net",
+  "start_url": "https://www.legitdrops.net/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
