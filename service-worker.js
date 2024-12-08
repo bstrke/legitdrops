@@ -3,8 +3,8 @@ self.addEventListener('install', (event) => {
     caches.open('app-cache').then((cache) => {
       return cache.addAll([
         '/',
-        '/path-to-your-icon-192x192.png',
-        '/path-to-your-icon-512x512.png',
+        'https://github.com/bstrke/legitdrops/blob/main/path-to-icon-192x192.png',
+        'https://github.com/bstrke/legitdrops/blob/main/path-to-icon-512x512.png',
         // Add more static assets if needed
       ]);
     })
